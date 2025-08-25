@@ -1,6 +1,6 @@
 # caffeine-py
 
-System Awake Script ~ A Python-based CLI tool that prevents your system from going into sleep mode.
+System Awake Script ~ A Python-based CLI tool that prevents your system from going into sleep mode.  
 This project was scaffolded using [cc-py](https://github.com/erujs/cc-py), a Cookiecutter template for building Python CLI applications.
 
 ## Dependencies
